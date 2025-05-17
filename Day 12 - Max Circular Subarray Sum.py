@@ -17,4 +17,4 @@ def circularSubarraySum(arr):
     
     if max_kadane<0:
         return max_kadane
-    return max(max_kadane,total_sum-min_kad
+    return max(max_kadane,total_sum-min_kad)
