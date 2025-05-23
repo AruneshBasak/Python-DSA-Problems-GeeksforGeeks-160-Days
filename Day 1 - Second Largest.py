@@ -7,4 +7,4 @@ class Solution:
                 first = num
             elif num!= first and num>second:
                 second = num
-        return secon
+        return second
