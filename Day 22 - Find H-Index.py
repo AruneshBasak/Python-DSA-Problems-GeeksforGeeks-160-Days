@@ -15,3 +15,4 @@ class Solution:
             if cumulative >= i:
                 return i
         return 0
+        
