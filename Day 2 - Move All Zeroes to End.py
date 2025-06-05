@@ -12,3 +12,4 @@ class Solution:
     	    arr[i]=0
     	    
         return arr
+	
