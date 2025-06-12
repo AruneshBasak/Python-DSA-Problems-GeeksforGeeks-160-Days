@@ -42,3 +42,4 @@ class Solution:
         n = len(arr)
         temp = [0] * n
         return self.mergeSortAndCount(arr, temp, 0, n - 1)
+        
