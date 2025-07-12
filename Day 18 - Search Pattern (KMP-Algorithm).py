@@ -38,3 +38,4 @@ class Solution:
                 else:
                     i += 1
         return result
+
