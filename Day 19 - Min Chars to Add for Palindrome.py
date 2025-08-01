@@ -16,3 +16,4 @@ class Solution:
             lps[i] = j
 
         return n - lps[-1]
+
